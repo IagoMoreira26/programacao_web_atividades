@@ -1,0 +1,24 @@
+.container {
+  display: grid;
+  grid-template-columns: 15% 70% 15%;
+  text-align: center;
+  align-items: center;
+}
+
+.conteudo-esquerdo {
+  background-color: blue;
+  padding: 2em 1em;
+  margin: 1em;
+}
+
+.conteudo-meio {
+  background-color: red;
+  padding: 1em;
+  margin: 1em;
+}
+
+.conteudo-direito {
+  background-color: yellow;
+  padding: 2em 1em;
+  margin: 1em;
+}
